@@ -1,20 +1,20 @@
 {
   "assetsByChunkName": {
     "path---lesson-akkatecture-configuration": [
-      "path---lesson-akkatecture-configuration-c2fd1c4b0a24b90700de.js",
-      "path---lesson-akkatecture-configuration-c2fd1c4b0a24b90700de.js.map"
+      "path---lesson-akkatecture-configuration-bf1e077365b941704e5f.js",
+      "path---lesson-akkatecture-configuration-bf1e077365b941704e5f.js.map"
     ],
     "path---lesson-akkatecture-akka": [
-      "path---lesson-akkatecture-akka-a2060c48ce30cfe1a4ac.js",
-      "path---lesson-akkatecture-akka-a2060c48ce30cfe1a4ac.js.map"
+      "path---lesson-akkatecture-akka-ea4b7e895d8745941bca.js",
+      "path---lesson-akkatecture-akka-ea4b7e895d8745941bca.js.map"
     ],
     "path---lesson-akkatecture-your-first-subscriber": [
-      "path---lesson-akkatecture-your-first-subscriber-2daa35f5af5be8d99143.js",
-      "path---lesson-akkatecture-your-first-subscriber-2daa35f5af5be8d99143.js.map"
+      "path---lesson-akkatecture-your-first-subscriber-c1b5ec51b76311cdec7e.js",
+      "path---lesson-akkatecture-your-first-subscriber-c1b5ec51b76311cdec7e.js.map"
     ],
     "path---lesson-akkatecture-events": [
-      "path---lesson-akkatecture-events-ac448c38b090f70c639d.js",
-      "path---lesson-akkatecture-events-ac448c38b090f70c639d.js.map"
+      "path---lesson-akkatecture-events-197c0037b26101d6da87.js",
+      "path---lesson-akkatecture-events-197c0037b26101d6da87.js.map"
     ],
     "path---blog": [
       "path---blog-9fe2edd45ffabd679731.js",
@@ -29,32 +29,32 @@
       "component---src-pages-community-jsx-971ade872f77051f7c79.js.map"
     ],
     "path---lesson-akkatecture-your-first-read-model": [
-      "path---lesson-akkatecture-your-first-read-model-008014cdba0f9309ac46.js",
-      "path---lesson-akkatecture-your-first-read-model-008014cdba0f9309ac46.js.map"
+      "path---lesson-akkatecture-your-first-read-model-c0a00baa5440070bbeaf.js",
+      "path---lesson-akkatecture-your-first-read-model-c0a00baa5440070bbeaf.js.map"
     ],
     "path---tags-further-self-study": [
-      "path---tags-further-self-study-d9aa286c71ab3c3bd97a.js",
-      "path---tags-further-self-study-d9aa286c71ab3c3bd97a.js.map"
+      "path---tags-further-self-study-0e408d3442cb23478638.js",
+      "path---tags-further-self-study-0e408d3442cb23478638.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-88c8f5c5545fdb14bb63.js",
-      "component---src-layouts-index-jsx-88c8f5c5545fdb14bb63.js.map"
+      "component---src-layouts-index-jsx-b6d46c28bc8090e6a697.js",
+      "component---src-layouts-index-jsx-b6d46c28bc8090e6a697.js.map"
     ],
     "path---tags-dotnet": [
-      "path---tags-dotnet-ab811d11da0c5975994e.js",
-      "path---tags-dotnet-ab811d11da0c5975994e.js.map"
-    ],
-    "path---lesson-akkatecture-identity": [
-      "path---lesson-akkatecture-identity-f297dbdab48311b9caaf.js",
-      "path---lesson-akkatecture-identity-f297dbdab48311b9caaf.js.map"
+      "path---tags-dotnet-4cefe842a5e7e26a1627.js",
+      "path---tags-dotnet-4cefe842a5e7e26a1627.js.map"
     ],
     "path---lesson-akkatecture-sagas": [
-      "path---lesson-akkatecture-sagas-3e8f6257c171531dfe48.js",
-      "path---lesson-akkatecture-sagas-3e8f6257c171531dfe48.js.map"
+      "path---lesson-akkatecture-sagas-08094b94c9bcad9e5880.js",
+      "path---lesson-akkatecture-sagas-08094b94c9bcad9e5880.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "path---lesson-akkatecture-videos": [
+      "path---lesson-akkatecture-videos-efc5d8956602d74edfea.js",
+      "path---lesson-akkatecture-videos-efc5d8956602d74edfea.js.map"
     ],
     "component---src-templates-lesson-jsx": [
       "component---src-templates-lesson-jsx-802b7e99372658df2891.js",
@@ -65,116 +65,116 @@
       "component---src-templates-category-jsx-3a50fee79b9519c47f96.js.map"
     ],
     "path---index": [
-      "path---index-29025ed15c3627867437.js",
-      "path---index-29025ed15c3627867437.js.map"
+      "path---index-6b424015b54b9706b4e5.js",
+      "path---index-6b424015b54b9706b4e5.js.map"
     ],
     "path---tags-advanced-concepts": [
-      "path---tags-advanced-concepts-f22c13c82007537a43cb.js",
-      "path---tags-advanced-concepts-f22c13c82007537a43cb.js.map"
+      "path---tags-advanced-concepts-7b9e90df8671b8bef355.js",
+      "path---tags-advanced-concepts-7b9e90df8671b8bef355.js.map"
     ],
     "path---lesson-akkatecture-aggregates": [
-      "path---lesson-akkatecture-aggregates-d38cf457f30b80983b2b.js",
-      "path---lesson-akkatecture-aggregates-d38cf457f30b80983b2b.js.map"
+      "path---lesson-akkatecture-aggregates-b6cf1e5d8ba807b97825.js",
+      "path---lesson-akkatecture-aggregates-b6cf1e5d8ba807b97825.js.map"
     ],
     "path---community": [
       "path---community-a0e39f21c11f6a62c5ab.js",
       "path---community-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---lesson-akkatecture-getting-started": [
-      "path---lesson-akkatecture-getting-started-f4c15f83bcfc1135dee4.js",
-      "path---lesson-akkatecture-getting-started-f4c15f83bcfc1135dee4.js.map"
+      "path---lesson-akkatecture-getting-started-3d2502064ebfe36c0638.js",
+      "path---lesson-akkatecture-getting-started-3d2502064ebfe36c0638.js.map"
+    ],
+    "path---lesson-akkatecture-primitives": [
+      "path---lesson-akkatecture-primitives-e6a8f5d104a153020b1f.js",
+      "path---lesson-akkatecture-primitives-e6a8f5d104a153020b1f.js.map"
     ],
     "commons": [
-      "commons-1e453bf0f829fbda8250.js",
+      "commons-4ff948a3ec51fce8eddb.js",
       "build-js-styles.css",
-      "commons-1e453bf0f829fbda8250.js.map",
+      "commons-4ff948a3ec51fce8eddb.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-akkatecture": [
-      "path---tags-akkatecture-1a6332385a7acef461a4.js",
-      "path---tags-akkatecture-1a6332385a7acef461a4.js.map"
+      "path---tags-akkatecture-0afc931e4a99df2c5769.js",
+      "path---tags-akkatecture-0afc931e4a99df2c5769.js.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-6d724a4bbcff12c3ea7c.js",
       "component---src-templates-tag-jsx-6d724a4bbcff12c3ea7c.js.map"
     ],
     "path---lesson-akkatecture-commands": [
-      "path---lesson-akkatecture-commands-4e97f0932dda4387da0f.js",
-      "path---lesson-akkatecture-commands-4e97f0932dda4387da0f.js.map"
+      "path---lesson-akkatecture-commands-52c6537a950d0e59e4fe.js",
+      "path---lesson-akkatecture-commands-52c6537a950d0e59e4fe.js.map"
     ],
     "path---tags-getting-started": [
-      "path---tags-getting-started-4b30dc5bb8709cd38c3c.js",
-      "path---tags-getting-started-4b30dc5bb8709cd38c3c.js.map"
+      "path---tags-getting-started-e54109b403366e1254b6.js",
+      "path---tags-getting-started-e54109b403366e1254b6.js.map"
     ],
     "path---tags-csharp": [
-      "path---tags-csharp-2f07ed7f4ebfe5550c30.js",
-      "path---tags-csharp-2f07ed7f4ebfe5550c30.js.map"
+      "path---tags-csharp-61b6d360928469aa6c10.js",
+      "path---tags-csharp-61b6d360928469aa6c10.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-7c2e061bb258b90a20a5.js",
-      "component---src-pages-index-jsx-7c2e061bb258b90a20a5.js.map"
+      "component---src-pages-index-jsx-9f6cd22e50386a89661c.js",
+      "component---src-pages-index-jsx-9f6cd22e50386a89661c.js.map"
     ],
     "path---lesson-akkatecture-articles": [
-      "path---lesson-akkatecture-articles-8548443d4aa1d6963b02.js",
-      "path---lesson-akkatecture-articles-8548443d4aa1d6963b02.js.map"
+      "path---lesson-akkatecture-articles-28045c0643271b3bc38a.js",
+      "path---lesson-akkatecture-articles-28045c0643271b3bc38a.js.map"
     ],
     "component---src-templates-blog-jsx": [
       "component---src-templates-blog-jsx-b8075d6f0dbf8acd7a2e.js",
       "component---src-templates-blog-jsx-b8075d6f0dbf8acd7a2e.js.map"
     ],
     "path---tags-walkthrough": [
-      "path---tags-walkthrough-fbfe950e0fb0e22ae462.js",
-      "path---tags-walkthrough-fbfe950e0fb0e22ae462.js.map"
+      "path---tags-walkthrough-a188bb4a9fa1c34cfcf0.js",
+      "path---tags-walkthrough-a188bb4a9fa1c34cfcf0.js.map"
     ],
     "path---tags-basic-concepts": [
-      "path---tags-basic-concepts-b4cbc5025973d3381a61.js",
-      "path---tags-basic-concepts-b4cbc5025973d3381a61.js.map"
+      "path---tags-basic-concepts-c65f5dfe47c71bbc2756.js",
+      "path---tags-basic-concepts-c65f5dfe47c71bbc2756.js.map"
     ],
     "path---lesson-akkatecture-clustering": [
-      "path---lesson-akkatecture-clustering-7f6000f1b34d2ece4a19.js",
-      "path---lesson-akkatecture-clustering-7f6000f1b34d2ece4a19.js.map"
+      "path---lesson-akkatecture-clustering-e066b070678967110dce.js",
+      "path---lesson-akkatecture-clustering-e066b070678967110dce.js.map"
     ],
     "path---lesson-akkatecture-snapshotting": [
-      "path---lesson-akkatecture-snapshotting-f236e71d18edf745ec64.js",
-      "path---lesson-akkatecture-snapshotting-f236e71d18edf745ec64.js.map"
+      "path---lesson-akkatecture-snapshotting-55d96fdba4f86afa0066.js",
+      "path---lesson-akkatecture-snapshotting-55d96fdba4f86afa0066.js.map"
     ],
     "app": [
-      "app-8c9ae03de2166c60c951.js",
+      "app-70cf127630fe984b9c69.js",
       "build-js-styles.css",
-      "app-8c9ae03de2166c60c951.js.map",
+      "app-70cf127630fe984b9c69.js.map",
       "build-js-styles.css.map"
     ],
     "path---lesson-akkatecture-subscribers": [
-      "path---lesson-akkatecture-subscribers-90b9ccbacaee345d6dba.js",
-      "path---lesson-akkatecture-subscribers-90b9ccbacaee345d6dba.js.map"
-    ],
-    "path---lesson-akkatecture-video-content": [
-      "path---lesson-akkatecture-video-content-697a5cf7561fe9f823fb.js",
-      "path---lesson-akkatecture-video-content-697a5cf7561fe9f823fb.js.map"
+      "path---lesson-akkatecture-subscribers-6ded399385015c27f673.js",
+      "path---lesson-akkatecture-subscribers-6ded399385015c27f673.js.map"
     ],
     "path---categories-akkatecture": [
-      "path---categories-akkatecture-53a8c32c9c72a54c9cf4.js",
-      "path---categories-akkatecture-53a8c32c9c72a54c9cf4.js.map"
+      "path---categories-akkatecture-122392cae2f81cff8cc3.js",
+      "path---categories-akkatecture-122392cae2f81cff8cc3.js.map"
     ],
     "path---lesson-akkatecture-your-first-aggregate-saga": [
-      "path---lesson-akkatecture-your-first-aggregate-saga-39aff22331aea69820a2.js",
-      "path---lesson-akkatecture-your-first-aggregate-saga-39aff22331aea69820a2.js.map"
+      "path---lesson-akkatecture-your-first-aggregate-saga-11c5d69e72c998bd550b.js",
+      "path---lesson-akkatecture-your-first-aggregate-saga-11c5d69e72c998bd550b.js.map"
     ],
     "path---lesson-akkatecture-tips-and-tricks": [
-      "path---lesson-akkatecture-tips-and-tricks-492bbc30b405aebe1f85.js",
-      "path---lesson-akkatecture-tips-and-tricks-492bbc30b405aebe1f85.js.map"
+      "path---lesson-akkatecture-tips-and-tricks-3ac028a04980fd3aa92a.js",
+      "path---lesson-akkatecture-tips-and-tricks-3ac028a04980fd3aa92a.js.map"
     ],
     "path---lesson-akkatecture-production-readiness": [
-      "path---lesson-akkatecture-production-readiness-c695b68eb0cfb5d41113.js",
-      "path---lesson-akkatecture-production-readiness-c695b68eb0cfb5d41113.js.map"
+      "path---lesson-akkatecture-production-readiness-5659a884465ccef590a1.js",
+      "path---lesson-akkatecture-production-readiness-5659a884465ccef590a1.js.map"
     ],
     "path---lesson-akkatecture-your-first-aggregate": [
-      "path---lesson-akkatecture-your-first-aggregate-896c97e1889de024425b.js",
-      "path---lesson-akkatecture-your-first-aggregate-896c97e1889de024425b.js.map"
+      "path---lesson-akkatecture-your-first-aggregate-93f53762720f1ba9a3f3.js",
+      "path---lesson-akkatecture-your-first-aggregate-93f53762720f1ba9a3f3.js.map"
     ]
   }
 }
