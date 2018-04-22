@@ -12,13 +12,14 @@
 <url> <loc>https://akkatecture.github.io/docs/aggregates</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.github.io/docs/snapshotting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.github.io/docs/production-readiness</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://akkatecture.github.io/docs/clustering</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.github.io/docs/sagas</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://akkatecture.github.io/docs/your-first-aggregate-saga</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.github.io/docs/your-first-aggregate</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://akkatecture.github.io/docs/getting-started</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.github.io/docs/your-first-read-model</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://akkatecture.github.io/docs/your-first-aggregate-saga</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.github.io/docs/your-first-subscriber</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://akkatecture.github.io/docs/getting-started</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://akkatecture.github.io/docs/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://akkatecture.github.io/docs/clustering</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.github.io/tags/basic-concepts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.github.io/tags/akkatecture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.github.io/tags/csharp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
