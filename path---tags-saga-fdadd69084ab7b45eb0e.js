@@ -1,0 +1,2 @@
+webpackJsonp([0x97b0103b8e1f],{448:function(a,t){a.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/your-first-aggregate-saga"},excerpt:"",timeToRead:1,frontmatter:{title:"Your First Aggregate Saga",tags:["walkthrough","akkatecture","saga","csharp","dotnet"],cover:"https://unsplash.it/400/300/?random?BoldMage",date:"01/07/2018"}}}]}},pathContext:{tag:"saga"}}}});
+//# sourceMappingURL=path---tags-saga-fdadd69084ab7b45eb0e.js.map
