@@ -5,20 +5,24 @@
       "path---tags-specifications-3277c2940d4321ad7455.js.map"
     ],
     "path---docs-primitives": [
-      "path---docs-primitives-d2895c6b79b570c2de59.js",
-      "path---docs-primitives-d2895c6b79b570c2de59.js.map"
+      "path---docs-primitives-76aab71e03cdf0c91d30.js",
+      "path---docs-primitives-76aab71e03cdf0c91d30.js.map"
     ],
     "path---docs-commands": [
-      "path---docs-commands-05e9528cd278778ff1cc.js",
-      "path---docs-commands-05e9528cd278778ff1cc.js.map"
+      "path---docs-commands-ed006a81f003f5737963.js",
+      "path---docs-commands-ed006a81f003f5737963.js.map"
+    ],
+    "path---docs-testing-actors": [
+      "path---docs-testing-actors-467d1041bf0a1eb53f37.js",
+      "path---docs-testing-actors-467d1041bf0a1eb53f37.js.map"
     ],
     "path---tags-aggregate": [
       "path---tags-aggregate-2fdf4e049391c07a248c.js",
       "path---tags-aggregate-2fdf4e049391c07a248c.js.map"
     ],
     "path---docs-specifications": [
-      "path---docs-specifications-c3c53d23a42382efb416.js",
-      "path---docs-specifications-c3c53d23a42382efb416.js.map"
+      "path---docs-specifications-783048061112230d30a1.js",
+      "path---docs-specifications-783048061112230d30a1.js.map"
     ],
     "path---tags-introduction": [
       "path---tags-introduction-6f4c8d4b27450ff5c3fb.js",
@@ -29,28 +33,28 @@
       "path---tags-subscriber-01beea386986d0dc0784.js.map"
     ],
     "path---docs-your-first-commands": [
-      "path---docs-your-first-commands-ace5c3df199c0b77ceae.js",
-      "path---docs-your-first-commands-ace5c3df199c0b77ceae.js.map"
+      "path---docs-your-first-commands-9af2e11ec717515e8452.js",
+      "path---docs-your-first-commands-9af2e11ec717515e8452.js.map"
     ],
     "path---docs-tips-and-tricks": [
-      "path---docs-tips-and-tricks-48ca56cbd219d6b85668.js",
-      "path---docs-tips-and-tricks-48ca56cbd219d6b85668.js.map"
+      "path---docs-tips-and-tricks-6aea7eaaaf8fca42180f.js",
+      "path---docs-tips-and-tricks-6aea7eaaaf8fca42180f.js.map"
     ],
     "path---docs-articles": [
-      "path---docs-articles-65309c60351c8886c3a2.js",
-      "path---docs-articles-65309c60351c8886c3a2.js.map"
+      "path---docs-articles-6ff0d090fdd0cd044109.js",
+      "path---docs-articles-6ff0d090fdd0cd044109.js.map"
     ],
     "path---blog": [
-      "path---blog-05af1b4383e078c4067e.js",
-      "path---blog-05af1b4383e078c4067e.js.map"
+      "path---blog-a4badd9b7571b0cfbf73.js",
+      "path---blog-a4badd9b7571b0cfbf73.js.map"
     ],
     "path---docs-your-first-events": [
-      "path---docs-your-first-events-a43a0c1144175497afac.js",
-      "path---docs-your-first-events-a43a0c1144175497afac.js.map"
+      "path---docs-your-first-events-a6f046ad69e13bfc4f4b.js",
+      "path---docs-your-first-events-a6f046ad69e13bfc4f4b.js.map"
     ],
     "path---docs-clustering": [
-      "path---docs-clustering-a760e41b9404d5e94c8d.js",
-      "path---docs-clustering-a760e41b9404d5e94c8d.js.map"
+      "path---docs-clustering-45336ff2454ea90c5fa0.js",
+      "path---docs-clustering-45336ff2454ea90c5fa0.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -61,48 +65,48 @@
       "component---src-pages-community-jsx-b041d4dacb76dbfd5b40.js.map"
     ],
     "path---docs-configuration": [
-      "path---docs-configuration-7262cc825f6df01ceb71.js",
-      "path---docs-configuration-7262cc825f6df01ceb71.js.map"
+      "path---docs-configuration-63c1c2c44b5a95eace7f.js",
+      "path---docs-configuration-63c1c2c44b5a95eace7f.js.map"
     ],
     "path---tags-further-self-study": [
-      "path---tags-further-self-study-2b1225b81bd51d616072.js",
-      "path---tags-further-self-study-2b1225b81bd51d616072.js.map"
+      "path---tags-further-self-study-5836ac48bf3b533f9fd7.js",
+      "path---tags-further-self-study-5836ac48bf3b533f9fd7.js.map"
     ],
     "path---docs-event-upgrading": [
-      "path---docs-event-upgrading-2043da72c8b421b5e255.js",
-      "path---docs-event-upgrading-2043da72c8b421b5e255.js.map"
+      "path---docs-event-upgrading-5b21b47815d214eeacfd.js",
+      "path---docs-event-upgrading-5b21b47815d214eeacfd.js.map"
     ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-88c8f5c5545fdb14bb63.js",
       "component---src-layouts-index-jsx-88c8f5c5545fdb14bb63.js.map"
     ],
     "path---docs-videos": [
-      "path---docs-videos-75e4fb2f614c416a50c0.js",
-      "path---docs-videos-75e4fb2f614c416a50c0.js.map"
+      "path---docs-videos-6f90092cd124e52b5310.js",
+      "path---docs-videos-6f90092cd124e52b5310.js.map"
     ],
     "path---docs-getting-started": [
-      "path---docs-getting-started-7df6ab1faa6f6e502d53.js",
-      "path---docs-getting-started-7df6ab1faa6f6e502d53.js.map"
+      "path---docs-getting-started-f7363fd6b5f72e4564fb.js",
+      "path---docs-getting-started-f7363fd6b5f72e4564fb.js.map"
     ],
     "path---docs-subscribers": [
-      "path---docs-subscribers-eaee8b64f4a7663792e3.js",
-      "path---docs-subscribers-eaee8b64f4a7663792e3.js.map"
+      "path---docs-subscribers-758a9446987ee7ae6879.js",
+      "path---docs-subscribers-758a9446987ee7ae6879.js.map"
     ],
     "path---tags-dotnet": [
-      "path---tags-dotnet-976816018a3b10b601e2.js",
-      "path---tags-dotnet-976816018a3b10b601e2.js.map"
+      "path---tags-dotnet-5dad1d280ef45117adcb.js",
+      "path---tags-dotnet-5dad1d280ef45117adcb.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---docs-aggregates": [
-      "path---docs-aggregates-74cb5946095a2822a4da.js",
-      "path---docs-aggregates-74cb5946095a2822a4da.js.map"
+      "path---docs-aggregates-635545bc03e771d5da02.js",
+      "path---docs-aggregates-635545bc03e771d5da02.js.map"
     ],
     "path---docs-your-first-read-models": [
-      "path---docs-your-first-read-models-dca3144b1356ad8dbbcd.js",
-      "path---docs-your-first-read-models-dca3144b1356ad8dbbcd.js.map"
+      "path---docs-your-first-read-models-6d815e25c216841667be.js",
+      "path---docs-your-first-read-models-6d815e25c216841667be.js.map"
     ],
     "path---tags-cluster": [
       "path---tags-cluster-ed69acf0aebba0314d3a.js",
@@ -116,37 +120,41 @@
       "component---src-templates-lesson-jsx-869e6b6cc2065b089165.js",
       "component---src-templates-lesson-jsx-869e6b6cc2065b089165.js.map"
     ],
+    "path---docs-terminology": [
+      "path---docs-terminology-a6a8151937991e5f900c.js",
+      "path---docs-terminology-a6a8151937991e5f900c.js.map"
+    ],
     "path---docs-akka": [
-      "path---docs-akka-58e3597c87446ef3888d.js",
-      "path---docs-akka-58e3597c87446ef3888d.js.map"
+      "path---docs-akka-c220ec00dbb6f3564a51.js",
+      "path---docs-akka-c220ec00dbb6f3564a51.js.map"
     ],
     "path---tags-readmodels": [
       "path---tags-readmodels-eb2bbd1b30ba93afafb4.js",
       "path---tags-readmodels-eb2bbd1b30ba93afafb4.js.map"
     ],
     "path---docs-your-first-subscribers": [
-      "path---docs-your-first-subscribers-9f16a54e96f3e333e34d.js",
-      "path---docs-your-first-subscribers-9f16a54e96f3e333e34d.js.map"
+      "path---docs-your-first-subscribers-8cd2eb2d4c97a5899d14.js",
+      "path---docs-your-first-subscribers-8cd2eb2d4c97a5899d14.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-3a50fee79b9519c47f96.js",
       "component---src-templates-category-jsx-3a50fee79b9519c47f96.js.map"
     ],
     "path---docs-events": [
-      "path---docs-events-1d5a354d2c27717f8ae7.js",
-      "path---docs-events-1d5a354d2c27717f8ae7.js.map"
+      "path---docs-events-df24ba1ea4e26fc4788d.js",
+      "path---docs-events-df24ba1ea4e26fc4788d.js.map"
     ],
     "path---docs-your-first-specifications": [
-      "path---docs-your-first-specifications-2ccdeacae1266cd31c8a.js",
-      "path---docs-your-first-specifications-2ccdeacae1266cd31c8a.js.map"
+      "path---docs-your-first-specifications-3a1c350a711d7de69479.js",
+      "path---docs-your-first-specifications-3a1c350a711d7de69479.js.map"
     ],
     "path---index": [
-      "path---index-e80ddd479b4a029913cf.js",
-      "path---index-e80ddd479b4a029913cf.js.map"
+      "path---index-7d99c95c33661de7da4c.js",
+      "path---index-7d99c95c33661de7da4c.js.map"
     ],
     "path---tags-advanced-concepts": [
-      "path---tags-advanced-concepts-27da9c4d47a41cbaad3b.js",
-      "path---tags-advanced-concepts-27da9c4d47a41cbaad3b.js.map"
+      "path---tags-advanced-concepts-d485fc151b9cc06f3032.js",
+      "path---tags-advanced-concepts-d485fc151b9cc06f3032.js.map"
     ],
     "path---community": [
       "path---community-a0e39f21c11f6a62c5ab.js",
@@ -157,88 +165,88 @@
       "path---tags-saga-6a8dc5643a377c334ecc.js.map"
     ],
     "commons": [
-      "commons-2793ea367c6c6bde362a.js",
+      "commons-d66301647bb9efb04fbb.js",
       "build-js-styles.css",
-      "commons-2793ea367c6c6bde362a.js.map",
+      "commons-d66301647bb9efb04fbb.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-your-first-aggregate-saga": [
-      "path---docs-your-first-aggregate-saga-a108f069218dae9a6024.js",
-      "path---docs-your-first-aggregate-saga-a108f069218dae9a6024.js.map"
+      "path---docs-your-first-aggregate-saga-6a19d7019dd4713c2df6.js",
+      "path---docs-your-first-aggregate-saga-6a19d7019dd4713c2df6.js.map"
     ],
     "path---tags-akkatecture": [
-      "path---tags-akkatecture-b13213b242cae568ec47.js",
-      "path---tags-akkatecture-b13213b242cae568ec47.js.map"
+      "path---tags-akkatecture-a83f30d1f42e921921ef.js",
+      "path---tags-akkatecture-a83f30d1f42e921921ef.js.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-6d724a4bbcff12c3ea7c.js",
       "component---src-templates-tag-jsx-6d724a4bbcff12c3ea7c.js.map"
     ],
     "path---docs-production-readiness": [
-      "path---docs-production-readiness-1f7a911887b4f3b1fd8a.js",
-      "path---docs-production-readiness-1f7a911887b4f3b1fd8a.js.map"
+      "path---docs-production-readiness-be7c5193fb22da1a090e.js",
+      "path---docs-production-readiness-be7c5193fb22da1a090e.js.map"
     ],
     "path---tags-getting-started": [
-      "path---tags-getting-started-91836ea8fe2bb0deafc0.js",
-      "path---tags-getting-started-91836ea8fe2bb0deafc0.js.map"
+      "path---tags-getting-started-1758a28b2979c4634bf8.js",
+      "path---tags-getting-started-1758a28b2979c4634bf8.js.map"
     ],
     "path---tags-csharp": [
-      "path---tags-csharp-ac9984025aeca831ee16.js",
-      "path---tags-csharp-ac9984025aeca831ee16.js.map"
+      "path---tags-csharp-3847d3aa81783bb55bb0.js",
+      "path---tags-csharp-3847d3aa81783bb55bb0.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-a861024474a17cb20942.js",
-      "component---src-pages-index-jsx-a861024474a17cb20942.js.map"
+      "component---src-pages-index-jsx-7938bd810ea57e9c7416.js",
+      "component---src-pages-index-jsx-7938bd810ea57e9c7416.js.map"
     ],
     "component---src-templates-blog-jsx": [
       "component---src-templates-blog-jsx-b8075d6f0dbf8acd7a2e.js",
       "component---src-templates-blog-jsx-b8075d6f0dbf8acd7a2e.js.map"
     ],
     "path---tags-walkthrough": [
-      "path---tags-walkthrough-07ab806a96b83540649d.js",
-      "path---tags-walkthrough-07ab806a96b83540649d.js.map"
+      "path---tags-walkthrough-c7bd2c91676a368b4964.js",
+      "path---tags-walkthrough-c7bd2c91676a368b4964.js.map"
     ],
     "path---tags-basic-concepts": [
-      "path---tags-basic-concepts-ba61a8ba9a9cebb37873.js",
-      "path---tags-basic-concepts-ba61a8ba9a9cebb37873.js.map"
+      "path---tags-basic-concepts-805a2f6e25b36373981b.js",
+      "path---tags-basic-concepts-805a2f6e25b36373981b.js.map"
     ],
     "app": [
-      "app-0478056cdf55ee889fce.js",
+      "app-a1149311ccbbbf60d9e2.js",
       "build-js-styles.css",
-      "app-0478056cdf55ee889fce.js.map",
+      "app-a1149311ccbbbf60d9e2.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-sagas": [
-      "path---docs-sagas-5e1935fd03e42d759024.js",
-      "path---docs-sagas-5e1935fd03e42d759024.js.map"
+      "path---docs-sagas-82a4ec86c584c81e3e77.js",
+      "path---docs-sagas-82a4ec86c584c81e3e77.js.map"
     ],
     "path---categories-akkatecture": [
-      "path---categories-akkatecture-0d1bbc33c573193e0f3c.js",
-      "path---categories-akkatecture-0d1bbc33c573193e0f3c.js.map"
+      "path---categories-akkatecture-6de424aaf61fba60573b.js",
+      "path---categories-akkatecture-6de424aaf61fba60573b.js.map"
     ],
     "path---docs-snapshotting": [
-      "path---docs-snapshotting-0a6deee290c96a16dcb8.js",
-      "path---docs-snapshotting-0a6deee290c96a16dcb8.js.map"
+      "path---docs-snapshotting-8c1ab71cf93e59d64e88.js",
+      "path---docs-snapshotting-8c1ab71cf93e59d64e88.js.map"
     ],
     "path---docs-your-first-aggregate": [
-      "path---docs-your-first-aggregate-0e8fa7c5001852cde8b8.js",
-      "path---docs-your-first-aggregate-0e8fa7c5001852cde8b8.js.map"
+      "path---docs-your-first-aggregate-b7294177db1e00ba6070.js",
+      "path---docs-your-first-aggregate-b7294177db1e00ba6070.js.map"
     ],
     "path---tags-events": [
       "path---tags-events-8f7cd2909cc4970d769e.js",
       "path---tags-events-8f7cd2909cc4970d769e.js.map"
     ],
     "path---docs-walkthrough-introduction": [
-      "path---docs-walkthrough-introduction-6767c4141e68295be708.js",
-      "path---docs-walkthrough-introduction-6767c4141e68295be708.js.map"
+      "path---docs-walkthrough-introduction-11ad0e584d33d5aa9c95.js",
+      "path---docs-walkthrough-introduction-11ad0e584d33d5aa9c95.js.map"
     ],
     "path---docs-your-first-cluster": [
-      "path---docs-your-first-cluster-d987f91ba703fd96fb4f.js",
-      "path---docs-your-first-cluster-d987f91ba703fd96fb4f.js.map"
+      "path---docs-your-first-cluster-563c42280263424d1213.js",
+      "path---docs-your-first-cluster-563c42280263424d1213.js.map"
     ]
   }
 }
