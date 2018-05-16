@@ -11,8 +11,6 @@
 <url> <loc>https://akkatecture.net/docs/testing-actors</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/sagas</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/aggregates</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://akkatecture.net/docs/events</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://akkatecture.net/docs/commands</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/subscribers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/akka</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/configuration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -27,6 +25,8 @@
 <url> <loc>https://akkatecture.net/docs/primitives</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/walkthrough-introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/your-first-commands</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://akkatecture.net/docs/commands</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://akkatecture.net/docs/events</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/further-self-study/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/akkatecture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/csharp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
