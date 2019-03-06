@@ -21,12 +21,12 @@
 <url> <loc>https://akkatecture.net/docs/clustering</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/event-upgrading</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/sagas</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://akkatecture.net/docs/snapshotting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/akka</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/configuration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/subscribers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/specifications</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/events</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://akkatecture.net/docs/snapshotting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/walkthrough/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/akkatecture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/readmodels/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
