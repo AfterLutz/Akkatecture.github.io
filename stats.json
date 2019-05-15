@@ -5,24 +5,20 @@
       "path---tags-specifications-43a0c3a4679b21e9e9d2.js.map"
     ],
     "path---docs-primitives": [
-      "path---docs-primitives-d9613665b4237285fe72.js",
-      "path---docs-primitives-d9613665b4237285fe72.js.map"
+      "path---docs-primitives-9f5acabd4bdd46606cf4.js",
+      "path---docs-primitives-9f5acabd4bdd46606cf4.js.map"
     ],
     "path---docs-commands": [
-      "path---docs-commands-2bac97ec3c74a04a5ded.js",
-      "path---docs-commands-2bac97ec3c74a04a5ded.js.map"
-    ],
-    "path---docs-testing-actors": [
-      "path---docs-testing-actors-db76d71512dc4cd467b7.js",
-      "path---docs-testing-actors-db76d71512dc4cd467b7.js.map"
+      "path---docs-commands-d746e4ba13e8d7bebdb1.js",
+      "path---docs-commands-d746e4ba13e8d7bebdb1.js.map"
     ],
     "path---tags-aggregate": [
       "path---tags-aggregate-c4b45c304c10e1c8be8b.js",
       "path---tags-aggregate-c4b45c304c10e1c8be8b.js.map"
     ],
     "path---docs-specifications": [
-      "path---docs-specifications-9ecd917ad6630d54c1f3.js",
-      "path---docs-specifications-9ecd917ad6630d54c1f3.js.map"
+      "path---docs-specifications-7c4b4939b455641b9f8c.js",
+      "path---docs-specifications-7c4b4939b455641b9f8c.js.map"
     ],
     "path---tags-introduction": [
       "path---tags-introduction-66de254c2a08b7361d9b.js",
@@ -33,36 +29,36 @@
       "path---tags-subscriber-b28e5eb64acb45fd1f1d.js.map"
     ],
     "path---docs-your-first-commands": [
-      "path---docs-your-first-commands-066b79e4c46bb61ba766.js",
-      "path---docs-your-first-commands-066b79e4c46bb61ba766.js.map"
+      "path---docs-your-first-commands-3f7168cada7fb5313c1e.js",
+      "path---docs-your-first-commands-3f7168cada7fb5313c1e.js.map"
     ],
     "path---docs-your-first-projections": [
-      "path---docs-your-first-projections-6a4e6eea8143a9e31908.js",
-      "path---docs-your-first-projections-6a4e6eea8143a9e31908.js.map"
+      "path---docs-your-first-projections-2a76d5c28ff9f5753218.js",
+      "path---docs-your-first-projections-2a76d5c28ff9f5753218.js.map"
     ],
     "path---docs-tips-and-tricks": [
-      "path---docs-tips-and-tricks-3891a3d126d6050af32e.js",
-      "path---docs-tips-and-tricks-3891a3d126d6050af32e.js.map"
+      "path---docs-tips-and-tricks-6ce32aa918eeb53bc224.js",
+      "path---docs-tips-and-tricks-6ce32aa918eeb53bc224.js.map"
     ],
     "path---docs-articles": [
-      "path---docs-articles-46caddc0e7fa4ace77c0.js",
-      "path---docs-articles-46caddc0e7fa4ace77c0.js.map"
+      "path---docs-articles-4f5340b8736ef4186899.js",
+      "path---docs-articles-4f5340b8736ef4186899.js.map"
     ],
     "path---blog": [
       "path---blog-a23170f4b15582f1034d.js",
       "path---blog-a23170f4b15582f1034d.js.map"
     ],
     "path---docs-walkthrough-ending": [
-      "path---docs-walkthrough-ending-ed9ce17cc68682e8c617.js",
-      "path---docs-walkthrough-ending-ed9ce17cc68682e8c617.js.map"
+      "path---docs-walkthrough-ending-5d1ebbd7badbed41d733.js",
+      "path---docs-walkthrough-ending-5d1ebbd7badbed41d733.js.map"
     ],
     "path---docs-your-first-events": [
-      "path---docs-your-first-events-4cd9943322a54025e834.js",
-      "path---docs-your-first-events-4cd9943322a54025e834.js.map"
+      "path---docs-your-first-events-dc0ae25d67de8ea47544.js",
+      "path---docs-your-first-events-dc0ae25d67de8ea47544.js.map"
     ],
     "path---docs-clustering": [
-      "path---docs-clustering-f84d67fa3c5018721812.js",
-      "path---docs-clustering-f84d67fa3c5018721812.js.map"
+      "path---docs-clustering-006e888f16001abd3442.js",
+      "path---docs-clustering-006e888f16001abd3442.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -73,44 +69,48 @@
       "component---src-pages-community-jsx-b041d4dacb76dbfd5b40.js.map"
     ],
     "path---docs-configuration": [
-      "path---docs-configuration-e9b5d51a5a0f662389aa.js",
-      "path---docs-configuration-e9b5d51a5a0f662389aa.js.map"
+      "path---docs-configuration-f2cdd96371041b89d146.js",
+      "path---docs-configuration-f2cdd96371041b89d146.js.map"
     ],
     "path---tags-further-self-study": [
-      "path---tags-further-self-study-daf4af3ffeb21d9abaf2.js",
-      "path---tags-further-self-study-daf4af3ffeb21d9abaf2.js.map"
+      "path---tags-further-self-study-b8ec7da9eadae9e123e0.js",
+      "path---tags-further-self-study-b8ec7da9eadae9e123e0.js.map"
     ],
     "path---docs-event-upgrading": [
-      "path---docs-event-upgrading-d3f1e2add713eccb5ae9.js",
-      "path---docs-event-upgrading-d3f1e2add713eccb5ae9.js.map"
+      "path---docs-event-upgrading-f77d9b8e6cfc2804312a.js",
+      "path---docs-event-upgrading-f77d9b8e6cfc2804312a.js.map"
+    ],
+    "path---tags-testing": [
+      "path---tags-testing-b3a9b125051572e079d4.js",
+      "path---tags-testing-b3a9b125051572e079d4.js.map"
     ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-b6d46c28bc8090e6a697.js",
       "component---src-layouts-index-jsx-b6d46c28bc8090e6a697.js.map"
     ],
     "path---docs-videos": [
-      "path---docs-videos-e59a733b5ab91688d325.js",
-      "path---docs-videos-e59a733b5ab91688d325.js.map"
+      "path---docs-videos-130001487cb00b748f44.js",
+      "path---docs-videos-130001487cb00b748f44.js.map"
     ],
     "path---docs-getting-started": [
-      "path---docs-getting-started-a0a40f99fbfb146cbc0a.js",
-      "path---docs-getting-started-a0a40f99fbfb146cbc0a.js.map"
+      "path---docs-getting-started-f9405a7d61e7f3bbd7df.js",
+      "path---docs-getting-started-f9405a7d61e7f3bbd7df.js.map"
     ],
     "path---docs-subscribers": [
-      "path---docs-subscribers-4680bfb0827c51870550.js",
-      "path---docs-subscribers-4680bfb0827c51870550.js.map"
+      "path---docs-subscribers-b49b7b136d4cc895acfb.js",
+      "path---docs-subscribers-b49b7b136d4cc895acfb.js.map"
     ],
     "path---tags-dotnet": [
-      "path---tags-dotnet-b2e32f7361624d551495.js",
-      "path---tags-dotnet-b2e32f7361624d551495.js.map"
+      "path---tags-dotnet-4e0694a06fa24f00cc38.js",
+      "path---tags-dotnet-4e0694a06fa24f00cc38.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---docs-aggregates": [
-      "path---docs-aggregates-0f4b53c06e2acf2a89fd.js",
-      "path---docs-aggregates-0f4b53c06e2acf2a89fd.js.map"
+      "path---docs-aggregates-79d07aaa43bfc6e83322.js",
+      "path---docs-aggregates-79d07aaa43bfc6e83322.js.map"
     ],
     "path---tags-commands": [
       "path---tags-commands-6d74b8896c61c66bbb26.js",
@@ -121,40 +121,44 @@
       "component---src-templates-lesson-jsx-1a8b44204d8f2b24e204.js.map"
     ],
     "path---docs-akka": [
-      "path---docs-akka-d3da74ae417f2f351fb8.js",
-      "path---docs-akka-d3da74ae417f2f351fb8.js.map"
+      "path---docs-akka-fadb03453ed48786cb97.js",
+      "path---docs-akka-fadb03453ed48786cb97.js.map"
     ],
     "path---docs-your-first-subscribers": [
-      "path---docs-your-first-subscribers-90bb94fc19776db77e6a.js",
-      "path---docs-your-first-subscribers-90bb94fc19776db77e6a.js.map"
+      "path---docs-your-first-subscribers-4dff0d8a83545382d6d6.js",
+      "path---docs-your-first-subscribers-4dff0d8a83545382d6d6.js.map"
     ],
     "component---src-templates-category-jsx": [
       "component---src-templates-category-jsx-3a50fee79b9519c47f96.js",
       "component---src-templates-category-jsx-3a50fee79b9519c47f96.js.map"
     ],
     "path---docs-events": [
-      "path---docs-events-faf58dbba6dd33f8909c.js",
-      "path---docs-events-faf58dbba6dd33f8909c.js.map"
+      "path---docs-events-3ab498045761285e1595.js",
+      "path---docs-events-3ab498045761285e1595.js.map"
     ],
     "path---docs-your-first-specifications": [
-      "path---docs-your-first-specifications-4e36876f7bd00551a6b3.js",
-      "path---docs-your-first-specifications-4e36876f7bd00551a6b3.js.map"
+      "path---docs-your-first-specifications-df65d582100666577207.js",
+      "path---docs-your-first-specifications-df65d582100666577207.js.map"
     ],
     "path---index": [
-      "path---index-f39f0aa69f3c5d188a84.js",
-      "path---index-f39f0aa69f3c5d188a84.js.map"
+      "path---index-f3447a2fa49f7db9a2ad.js",
+      "path---index-f3447a2fa49f7db9a2ad.js.map"
     ],
     "path---tags-advanced-concepts": [
-      "path---tags-advanced-concepts-a73257deb623adbbee7b.js",
-      "path---tags-advanced-concepts-a73257deb623adbbee7b.js.map"
+      "path---tags-advanced-concepts-99d8b11a12620a9566f8.js",
+      "path---tags-advanced-concepts-99d8b11a12620a9566f8.js.map"
+    ],
+    "path---docs-your-first-aggregate-test": [
+      "path---docs-your-first-aggregate-test-7761c2d073c93959c653.js",
+      "path---docs-your-first-aggregate-test-7761c2d073c93959c653.js.map"
     ],
     "path---community": [
       "path---community-a0e39f21c11f6a62c5ab.js",
       "path---community-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---tags-projections": [
-      "path---tags-projections-a83566eb63094b17b44c.js",
-      "path---tags-projections-a83566eb63094b17b44c.js.map"
+      "path---tags-projections-39e9d0d5f81d73da9c11.js",
+      "path---tags-projections-39e9d0d5f81d73da9c11.js.map"
     ],
     "path---tags-saga": [
       "path---tags-saga-ff09dcde6c8e44258850.js",
@@ -167,28 +171,36 @@
       "build-js-styles.css.map"
     ],
     "path---docs-your-first-aggregate-saga": [
-      "path---docs-your-first-aggregate-saga-8135f1fbfbdb89d7e996.js",
-      "path---docs-your-first-aggregate-saga-8135f1fbfbdb89d7e996.js.map"
+      "path---docs-your-first-aggregate-saga-5f1841ec73a1040dda9d.js",
+      "path---docs-your-first-aggregate-saga-5f1841ec73a1040dda9d.js.map"
     ],
     "path---tags-akkatecture": [
-      "path---tags-akkatecture-22435e26bc9966687cd5.js",
-      "path---tags-akkatecture-22435e26bc9966687cd5.js.map"
+      "path---tags-akkatecture-e3099e59812ff6a0500d.js",
+      "path---tags-akkatecture-e3099e59812ff6a0500d.js.map"
     ],
     "component---src-templates-tag-jsx": [
       "component---src-templates-tag-jsx-6d724a4bbcff12c3ea7c.js",
       "component---src-templates-tag-jsx-6d724a4bbcff12c3ea7c.js.map"
     ],
+    "path---tags-tdd": [
+      "path---tags-tdd-fe4ac2474f76d53a7c1a.js",
+      "path---tags-tdd-fe4ac2474f76d53a7c1a.js.map"
+    ],
     "path---docs-production-readiness": [
-      "path---docs-production-readiness-830b1e06a7bc70657433.js",
-      "path---docs-production-readiness-830b1e06a7bc70657433.js.map"
+      "path---docs-production-readiness-f409ff774d2ff6456b81.js",
+      "path---docs-production-readiness-f409ff774d2ff6456b81.js.map"
+    ],
+    "path---tags-bdd": [
+      "path---tags-bdd-e5050744ab16d5d758d1.js",
+      "path---tags-bdd-e5050744ab16d5d758d1.js.map"
     ],
     "path---tags-getting-started": [
       "path---tags-getting-started-a763f51b0817bfee7e26.js",
       "path---tags-getting-started-a763f51b0817bfee7e26.js.map"
     ],
     "path---tags-csharp": [
-      "path---tags-csharp-3cd6f60a3a23911f481c.js",
-      "path---tags-csharp-3cd6f60a3a23911f481c.js.map"
+      "path---tags-csharp-6513b48584f21ce6acc6.js",
+      "path---tags-csharp-6513b48584f21ce6acc6.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
@@ -203,42 +215,46 @@
       "component---src-templates-blog-jsx-b8075d6f0dbf8acd7a2e.js.map"
     ],
     "path---tags-walkthrough": [
-      "path---tags-walkthrough-ee7ef541295fc9392c0b.js",
-      "path---tags-walkthrough-ee7ef541295fc9392c0b.js.map"
+      "path---tags-walkthrough-9d62c86e71604110701e.js",
+      "path---tags-walkthrough-9d62c86e71604110701e.js.map"
     ],
     "path---tags-basic-concepts": [
-      "path---tags-basic-concepts-68b30f4bbfc4578ece3a.js",
-      "path---tags-basic-concepts-68b30f4bbfc4578ece3a.js.map"
+      "path---tags-basic-concepts-11a6ce2a5de6d720ae59.js",
+      "path---tags-basic-concepts-11a6ce2a5de6d720ae59.js.map"
     ],
     "app": [
-      "app-5dcbdb34e1d401ed22fc.js",
+      "app-711574905efe5fa011aa.js",
       "build-js-styles.css",
-      "app-5dcbdb34e1d401ed22fc.js.map",
+      "app-711574905efe5fa011aa.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-sagas": [
-      "path---docs-sagas-966843130130c8024cde.js",
-      "path---docs-sagas-966843130130c8024cde.js.map"
+      "path---docs-sagas-2d4c9d04add8e0346f41.js",
+      "path---docs-sagas-2d4c9d04add8e0346f41.js.map"
     ],
     "path---categories-akkatecture": [
-      "path---categories-akkatecture-38f155718a2b67f18a6f.js",
-      "path---categories-akkatecture-38f155718a2b67f18a6f.js.map"
+      "path---categories-akkatecture-167475405dc85231148e.js",
+      "path---categories-akkatecture-167475405dc85231148e.js.map"
     ],
     "path---docs-snapshotting": [
-      "path---docs-snapshotting-554657d7eebbc60860d0.js",
-      "path---docs-snapshotting-554657d7eebbc60860d0.js.map"
+      "path---docs-snapshotting-031f4a081e9e7c020436.js",
+      "path---docs-snapshotting-031f4a081e9e7c020436.js.map"
     ],
     "path---docs-your-first-aggregate": [
-      "path---docs-your-first-aggregate-78e412b744b66576f1c6.js",
-      "path---docs-your-first-aggregate-78e412b744b66576f1c6.js.map"
+      "path---docs-your-first-aggregate-10d32537421088726865.js",
+      "path---docs-your-first-aggregate-10d32537421088726865.js.map"
+    ],
+    "path---docs-testing-aggregates": [
+      "path---docs-testing-aggregates-21cde048670398288bf0.js",
+      "path---docs-testing-aggregates-21cde048670398288bf0.js.map"
     ],
     "path---tags-events": [
       "path---tags-events-c68ee6ec32bd300e6d3f.js",
       "path---tags-events-c68ee6ec32bd300e6d3f.js.map"
     ],
     "path---docs-walkthrough-introduction": [
-      "path---docs-walkthrough-introduction-a75779e045fba44a669f.js",
-      "path---docs-walkthrough-introduction-a75779e045fba44a669f.js.map"
+      "path---docs-walkthrough-introduction-aba9f9a4c765f00fead4.js",
+      "path---docs-walkthrough-introduction-aba9f9a4c765f00fead4.js.map"
     ]
   }
 }
