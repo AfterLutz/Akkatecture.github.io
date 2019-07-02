@@ -1,2 +1,0 @@
-webpackJsonp([49683490770531],{388:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{html:"<p>TBD</p>",timeToRead:1,excerpt:"TBD",frontmatter:{title:"Placeholder",cover:"https://unsplash.it/400/300/?random?BoldMage",date:"01/06/2018",category:"tech",tags:[]},fields:{slug:"/placeholder"}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---blog-9fe2edd45ffabd679731.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0x7171c81f2522],{449:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/your-first-read-models"},excerpt:"TBD NEXT →",timeToRead:1,frontmatter:{title:"Your First Read Models",tags:["walkthrough","akkatecture","readmodels","csharp","dotnet"],cover:"https://unsplash.it/400/300/?random?BoldMage",date:"01/07/2018"}}}]}},pathContext:{tag:"readmodels"}}}});
-//# sourceMappingURL=path---tags-readmodels-eb2bbd1b30ba93afafb4.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0x654d3fded4a6],{439:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/your-first-cluster"},excerpt:"TBD",timeToRead:1,frontmatter:{title:"Your First Cluster",tags:["walkthrough","akkatecture","cluster","csharp","dotnet","cluster"],cover:"https://unsplash.it/400/300/?random?BoldMage",date:"01/07/2018"}}}]}},pathContext:{tag:"cluster"}}}});
-//# sourceMappingURL=path---tags-cluster-fd70ee95783bb47a9acb.js.map
