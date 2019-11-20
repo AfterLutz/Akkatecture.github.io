@@ -5,8 +5,8 @@
 <url> <loc>https://akkatecture.net/docs/production-readiness</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/sagas</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/snapshotting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://akkatecture.net/docs/testing-aggregates</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/aggregates</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://akkatecture.net/docs/testing-aggregates</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/akka</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/commands</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/configuration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -25,10 +25,10 @@
 <url> <loc>https://akkatecture.net/docs/your-first-aggregate-saga</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/your-first-commands</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/your-first-events</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://akkatecture.net/docs/your-first-specifications</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/your-first-projections</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://akkatecture.net/docs/your-first-subscribers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://akkatecture.net/docs/your-first-specifications</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/docs/your-first-aggregate-test</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://akkatecture.net/docs/your-first-subscribers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/advanced-concepts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/akkatecture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/csharp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -44,10 +44,10 @@
 <url> <loc>https://akkatecture.net/tags/commands/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/events/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/specifications/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://akkatecture.net/tags/subscriber/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/tdd/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/bdd/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/tags/testing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://akkatecture.net/tags/subscriber/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/categories/akkatecture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://akkatecture.net/community/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
